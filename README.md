@@ -13,7 +13,7 @@ To run the program you have to run
 python script.py
 ```
 Then you will be asked to provide a path to .txt file in which you want to find all PESEL numbers
-and decode the sex and date of birth of those people. If you just want to test this software on 
+and decode the gender and date of birth of those people. If you just want to test this software on 
 given test.txt file, provide the path of test.txt file
 ```
 PATH: test.txt
